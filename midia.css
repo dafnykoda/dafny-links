@@ -72,18 +72,14 @@ img:hover{
 
     padding:16px 20px;
 
+    position:relative;
+
     color: black;
     background: #c5d9e2;
 
     box-shadow: 1px 1px 1px #111;
     border-radius: 30px;
-    
-    transition:
-    transform .3s,
-    background .3s,
-    color .3s,
-    box-shadow .3s;
-
+    transition: .35s;
     font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
 }
