@@ -99,6 +99,8 @@ a{
     font-size: 20px;
     transition: .3s;
 
+    position:absolute;
+    left:22px;
 }
 
 footer{
